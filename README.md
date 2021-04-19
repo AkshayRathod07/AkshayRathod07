@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://akshay-rathod-p.netlify.app/](https://akshay-rathod-p.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akshay-rathod.netlify.app](https://akshay-rathod.netlify.app)
 
 - 📫 How to reach me **rathodak315@gmail.com**
 
