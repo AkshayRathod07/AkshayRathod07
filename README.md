@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayrathod07&label=Profile%20views&color=0e75b6&style=flat" alt="akshayrathod07" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m  **MERN** stack developer
 
 
 
